@@ -1,3 +1,6 @@
 git init
 git add . 
 git commit -m "Initial commit"
+git remote add origin htpps://github.com/mkhotib123/rythym-dash-ultimate-remix.git
+branch -M main
+push -u origin main
